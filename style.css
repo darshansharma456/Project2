@@ -1,0 +1,13 @@
+.first{
+    padding-top: 25px;
+    padding-left: 80px;
+}
+.second{
+    padding-top: 25px;
+}
+.last{
+    background: #DBDADA;
+}
+ul{
+    list-style: none;
+}
